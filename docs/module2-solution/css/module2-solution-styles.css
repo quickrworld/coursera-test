@@ -20,7 +20,8 @@ p {
 }
 
 .row {
-	width: 100%;
+	 display: flex;
+	 flex-wrap: wrap;
 }
 
 @media (min-width: 992px) {
@@ -36,7 +37,7 @@ p {
 	.col-lg-10,
 	.col-lg-11,
 	.col-lg-12 {
-		float: left;
+		/* float: left; */
 	}
 	.col-lg-1 {
 		width: 8.33%;
@@ -89,7 +90,7 @@ p {
 	.col-md-10,
 	.col-md-11,
 	.col-md-12 {
-		float: left;
+		/* float: left; */
 	}
 	.col-md-1 {
 		width: 8.33%;
@@ -131,7 +132,8 @@ p {
 
 .panel-container {
 	position:relative;
-	float:left;
+	/* float:left; */
+	display: flex;
 	margin-top:10px;
 	padding-top: 10px;
 	padding-right: 10px;
