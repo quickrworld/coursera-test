@@ -1,5 +1,6 @@
 # coursera-test
-Test repository for Coursera
+
+Coursera course: HTML, CSS, and Javascript for Web Developers
 
 The following link may be used to view the final submission for the Module 2 coding assignment:
 
