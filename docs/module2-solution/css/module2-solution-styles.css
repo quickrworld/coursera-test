@@ -229,6 +229,7 @@ p {
 	}
 
 	.panel-md-title-2 {
+		color: white;
 		position:relative; right:0px;
 		float: right;
 		border-left: 1px solid black;
@@ -283,6 +284,7 @@ p {
 	}
 
 	.panel-md-title-2 {
+		color: white;
 		float: right;
 		border-left: 1px solid black;
 		border-bottom: 1px solid black;
