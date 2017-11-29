@@ -1,0 +1,23 @@
+/* index.html */
+.app-navbar-brand {
+  font-weight: bold;
+  font-size: 1.6em;
+}
+.app-menu {
+  margin: 0 -15px;
+  background-color: #bce8f1;
+}
+.app-menu-item {
+  border-left: 1px solid black;
+  border-right: 1px solid black;
+  border-bottom: 1px solid black;
+  font-weight: bold;
+  font-size: 1.2em;
+}
+.app-menu-item-1 {
+  border-top: 1px solid black;
+}
+.app-content {
+  padding: 20px;
+  background-color: #cccccc;
+}
